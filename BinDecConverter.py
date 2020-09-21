@@ -58,4 +58,3 @@ if __name__ == "__main__":
             continue
         else:
             break
-#agar 10 daala problem 
